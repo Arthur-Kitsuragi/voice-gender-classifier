@@ -3,7 +3,7 @@ numpy>=1.23.0
 pretrainedmodels==0.7.4
 PyQt6==6.9.1
 pyqt6_sip==13.10.2
-scipy==1.16.0
+scipy>=1.7.0
 sounddevice==0.5.2
 torch==2.7.1
 torchvision==0.22.1
