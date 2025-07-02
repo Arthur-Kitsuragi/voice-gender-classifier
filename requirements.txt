@@ -1,0 +1,9 @@
+librosa==0.11.0
+numpy==2.3.1
+pretrainedmodels==0.7.4
+PyQt6==6.9.1
+pyqt6_sip==13.10.2
+scipy==1.16.0
+sounddevice==0.5.2
+torch==2.7.1
+torchvision==0.22.1
