@@ -42,10 +42,10 @@ git clone https://github.com/Arthur-Kitsuragi/voice-gender-classifier.git
 cd voice-gender-classifier
 ```
 
-### 2. Создание виртуального окружения
+### 2. Создание виртуального окружения (Git Bash)
 ```bash
 python -m venv venv
-venv\Scripts\activate
+source venv/Scripts/activate
 ```
 
 ###  3. Установка зависимостей

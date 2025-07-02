@@ -1,5 +1,5 @@
 librosa==0.11.0
-numpy==2.3.1
+numpy>=1.23.0
 pretrainedmodels==0.7.4
 PyQt6==6.9.1
 pyqt6_sip==13.10.2
